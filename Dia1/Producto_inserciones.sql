@@ -1,0 +1,12 @@
+insert into producto values
+(1, 'Disco duro SATA3 1TB', 86.99, 5),
+(2, 'Memoria RAM DDR4 8GB', 120, 6),
+(3, 'Disco SSD 1TB', 150.99,4),
+(4, 'GeForce GTX 1050Ti', 185,7),
+(5, 'GeForce GTX 1080 Xtreme', 755,6),
+(6, 'Monitor 24 LED Fill HD', 202,1),
+(7, 'Monitor 27 LED Fill HD', 245.99,1),
+(8,'Portátil Yoga 520', 444,2),
+(9, 'Portátil Ideapd 320', 444, 2),
+(10, 'Impresora HP Deskjet 3720', 59.99,3),
+(11, 'Impresora HP Laserjet Pro M26nw', 180,3);
